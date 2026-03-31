@@ -157,8 +157,8 @@ This project was developed as part of FastAPI training at **Innomatics Research 
 
 ## 📎 Submission Links
 
-* 🔗 GitHub Repository: *(Add your link here)*
-* 🔗 LinkedIn Post: *(Add your link here)*
+* 🔗 GitHub Repository: https://github.com/shivansh-94/
+* 🔗 LinkedIn Post: https://www.linkedin.com/in/shivansh-chaturvedi-41b768284/
 
 ---
 
